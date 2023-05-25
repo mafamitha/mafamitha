@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
  
 - 🌱 I’m currently learning psychology as a college student
-- 🔭 I'm a passionate web developer and a content writer
+- 🔭 I'm an aspiring ux designer and a content curator
+- ❤️ I loves to do front end development of a website
 - 👯 I’m looking to collaborate on website development projects
 - 📫 How to reach me: https://wa.link/b4fjfv or 
                       https://www.instagram.com/dream_work_smile/
